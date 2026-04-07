@@ -8,4 +8,4 @@ The macro is being expanded to accept more script formats, versatile rates, more
 
 Updates will come.
 
-(VO Rate Calculator Code.txt is not required for download. It is there so y'all can verify my code (and witness my terrible coding skills) before installing the macro enabled workbook. Should you not trust the .xlsm file, the code can be copied and pasted into an Excel VBA Module that you create.)
+(VORateCalcModule1.bas is not required for download. It is there so y'all can verify my code (and witness my terrible coding skills) before installing the macro enabled workbook. Should you not trust the .xlsm file, the code can be copied and pasted into an Excel VBA Module that you create.)
